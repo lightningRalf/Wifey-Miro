@@ -1,4 +1,4 @@
-###[Bear Market Rally Summary](https://twitter.com/WifeyAlpha/status/1539966248787886080)
+[#Bear Market Rally Summary](https://twitter.com/WifeyAlpha/status/1539966248787886080)
 
 ## 1. What are **B**ear **M**arket **R**allies = **BMR**?
 BMR are secondary reactions in the opposite direction of the primary trend. The primary trend in bear markets is down. BMR tend to be short covering rallies and at times when aggressive downward moves become exhausted.
