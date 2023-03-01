@@ -1,6 +1,32 @@
 # Wifey-Miro
 
 <details>
+  <summary>VolQ 21 Rules</summary>
+  
+  1. Timing is everything
+  2. Work harder than anyone else 
+  3. Return always wants its risk payment
+  4. Manage the drawdowns and the returns will follow
+  5. The harder I work the luckier I get 
+  6. Systematise your trading
+  7. A busy person always finds time
+  8. Be the dumbest person in the room so that you have something to learn 
+  9. Traders need to be flexible
+  10. An investment is a trade gone wrong
+  11. Don’t fall in love with a position
+  12. Executing in only one asset class is blind trading
+  13. Compound from a higher equity base
+  14. What others think of you is none of your business
+  15. Make peace with your past so it does not affect the present 
+  16. Time heals everything, give it time
+  17. Don’t compare your life to others and don’t judge them
+  18. It’s alright not to know all the answers, it will come to you when you least expect it
+  19. You are in charge of your own happiness
+  20. Smile - you don’t own all the problems in the world
+  21. Stay Happy
+  </details>
+
+<details>
   <summary>Dictionary</summary>
 
   
@@ -46,6 +72,31 @@
 </details>
 
 <details>
+  <summary>Research Thread #1</summary>
+  https://twitter.com/wifeyalpha/status/1482685625665007620?s=21
+</details>
+
+<details>
+  <summary>Research Thread #2</summary>
+  https://twitter.com/wifeyalpha/status/1485196071139696644?s=21
+</details>
+
+<details>
+  <summary>Research Thread #3</summary>
+  https://twitter.com/wifeyalpha/status/1489222447949877251?s=21
+</details>
+
+<details>
+  <summary>Research Thread #4</summary>
+  https://twitter.com/WifeyAlpha/status/1512894274563715072
+</details>
+
+<details>
+  <summary>VolQ Mishmash Thread</summary>
+  https://twitter.com/wifeyalpha/status/1482455163965165573?s=21
+</details>
+
+<details>
   <summary>Bear Market Rally - Summary</summary>
   
 [Bear Market Rally - Thread](https://twitter.com/WifeyAlpha/status/1539966248787886080)
@@ -81,28 +132,3 @@ https://pbs.twimg.com/media/FV8PLcJVUAA3iAQ?format=jpg&name=large
 - [Bear Market Investing Strategies](https://cdn.preterhuman.net/texts/finance_and_marketing/stock_market/Harry%20D%20Schultz%20-%20Bear%20Market%20Investing%20Strategies.pdf)
 </details>
 
-<details>
-  <summary>VolQ 21 Rules</summary>
-  
-  1. Timing is everything
-  2. Work harder than anyone else 
-  3. Return always wants its risk payment
-  4. Manage the drawdowns and the returns will follow
-  5. The harder I work the luckier I get 
-  6. Systematise your trading
-  7. A busy person always finds time
-  8. Be the dumbest person in the room so that you have something to learn 
-  9. Traders need to be flexible
-  10. An investment is a trade gone wrong
-  11. Don’t fall in love with a position
-  12. Executing in only one asset class is blind trading
-  13. Compound from a higher equity base
-  14. What others think of you is none of your business
-  15. Make peace with your past so it does not affect the present 
-  16. Time heals everything, give it time
-  17. Don’t compare your life to others and don’t judge them
-  18. It’s alright not to know all the answers, it will come to you when you least expect it
-  19. You are in charge of your own happiness
-  20. Smile - you don’t own all the problems in the world
-  21. Stay Happy
-  </details>
