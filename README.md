@@ -2,8 +2,9 @@
 
 # Dictionary
 
-- 👸=real wifey= @RealAlphaWifey
-- volq=wifey= @VolatilityQ =🐷👸
+- [@WifeyAlpha](https://twitter.com/WifeyAlpha/)=tradingDiary
+- 👸=real wifey= [@RealAlphaWifey](https://twitter.com/RealAlphaWifey/)
+- volq=wifey= [@VolatilityQ](https://twitter.com/VolatilityQ) =🐷👸
 - cq=chief quant=job=dog=systems
 - fam=family
 - 🐷=core positions=fam
