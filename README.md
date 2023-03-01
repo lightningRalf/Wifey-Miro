@@ -1,8 +1,9 @@
 # Wifey-Miro
 
 <details>
-  <summary># Dictionary</summary>
+  <summary>Dictionary</summary>
 
+  
 - [@WifeyAlpha](https://twitter.com/WifeyAlpha/)=tradingDiary
 - 👸=real wifey= [@RealAlphaWifey](https://twitter.com/RealAlphaWifey/)
 - volq=wifey= [@VolatilityQ](https://twitter.com/VolatilityQ) =🐷👸
@@ -73,8 +74,8 @@ BMR can bid & retrace 50% of the original down move.
 https://pbs.twimg.com/media/FV8PLcJVUAA3iAQ?format=jpg&name=large
 
 ## 5. References (book & papers)
-[Predictability of Bull and Bear Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559215)
-[Components of Bull and Bear Markets](https://twitter.com/wifeyalpha/status/1482398858017714182?s=21&t=NCHhthT5k_Oaold5d4Oa1Q)
-[Bull and Bear Markets During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747168)
-[Bear Market Investing Strategies](https://cdn.preterhuman.net/texts/finance_and_marketing/stock_market/Harry%20D%20Schultz%20-%20Bear%20Market%20Investing%20Strategies.pdf)
+- [Predictability of Bull and Bear Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559215)
+- [Components of Bull and Bear Markets](https://twitter.com/wifeyalpha/status/1482398858017714182?s=21&t=NCHhthT5k_Oaold5d4Oa1Q)
+- [Bull and Bear Markets During the COVID-19 Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747168)
+- [Bear Market Investing Strategies](https://cdn.preterhuman.net/texts/finance_and_marketing/stock_market/Harry%20D%20Schultz%20-%20Bear%20Market%20Investing%20Strategies.pdf)
 </details>
