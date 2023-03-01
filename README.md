@@ -46,7 +46,7 @@
 </details>
 
 <details>
-  <summary>Bearm Market Rally - Summary</summary>
+  <summary>Bear Market Rally - Summary</summary>
   
 [Bear Market Rally - Thread](https://twitter.com/WifeyAlpha/status/1539966248787886080)
 ## 1. What are **B**ear **M**arket **R**allies = **BMR**?
