@@ -75,12 +75,17 @@
   <summary>Research Thread #1</summary>
   https://twitter.com/wifeyalpha/status/1482685625665007620?s=21
   
-  1. Regimes & Correlations
-  1.1. [Regime Switches in Interest Rates](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Regimes%20%26%20Correlations/Regime%20Switches%20in%20Interest%20Rates%20in%201998.pdf)
+  1. Regimes & Correlations 
+	
+		1.1. [Regime Switches in Interest Rates](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Regimes%20%26%20Correlations/Regime%20Switches%20in%20Interest%20Rates%20in%201998.pdf)
+	
        “We show that the regimes in interest rates correspond reasonably well with business cycles, at least in the US.”
-  1.2. Oil and Fiscal Policy Regimes (2021)
+	
+		1.2. Oil and Fiscal Policy Regimes (2021)
        “Our results emphasize that it is both possible and important to separate a procyclical regime from a countercyclical regime when analysing fiscal policy.”
-  1.3. Regime Changes and Financial Markets (2011) 
+	
+		1.3. Regime Changes and Financial Markets (2011) 
+	
   2. Risk On/Off Bull/Bear Markets
   3. The VIX
 </details>
