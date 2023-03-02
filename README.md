@@ -99,7 +99,7 @@
 	
 		1.9. [Risk On-Risk Off: A Regime Switching Model for Active Portfolio Management (2019)](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Risk%20On-Off%20Bull-Bear%20Markets/Risk%20On-Risk%20Off%20A%20Regime%20Switching%20Model%20for%20Active%20Portfolio%20Management%20(2019).pdf)
 	
-	"Careful, not the regime. Long bonds is not the hedge, short bonds is. If long-only use cash, we know this is the best hedge for inflation and/or equity risk. GLD/GDX also."
+			"Careful, not the regime. Long bonds is not the hedge, short bonds is. If long-only use cash, we know this is the best hedge for inflation and/or equity risk. GLD/GDX also."
 	
 		1.10. [On the Global Impact of Risk-off Shocks and Policy-put Frameworks (2019)](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Risk%20On-Off%20Bull-Bear%20Markets/On%20the%20Global%20Impact%20of%20Risk-off%20Shocks%20and%20Policy-put%20Frameworks%20(2019).pdf)
 	
