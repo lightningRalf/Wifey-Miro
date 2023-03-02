@@ -77,7 +77,7 @@
   
   1. Regimes & Correlations 
 	
-		1.1. [Regime Switches in Interest Rates](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Regimes%20%26%20Correlations/Regime%20Switches%20in%20Interest%20Rates%20in%201998.pdf)
+		1.1. [Regime Switches in Interest Rates (1998)](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Regimes%20%26%20Correlations/Regime%20Switches%20in%20Interest%20Rates%20in%201998.pdf)
 	
        “We show that the regimes in interest rates correspond reasonably well with business cycles, at least in the US.”
 	
