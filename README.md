@@ -81,7 +81,8 @@
 	
        “We show that the regimes in interest rates correspond reasonably well with business cycles, at least in the US.”
 	
-		1.2. Oil and Fiscal Policy Regimes (2021)
+		1.2. [Oil and Fiscal Policy Regimes (2021)](https://github.com/lightningRalf/Wifey-Miro/raw/development/Wifey%20Research%201/Regimes%20%26%20Correlations/Oil%20and%20Fiscal%20Policy%20Regimes%20in%202021_10.pdf)
+	
        “Our results emphasize that it is both possible and important to separate a procyclical regime from a countercyclical regime when analysing fiscal policy.”
 	
 		1.3. Regime Changes and Financial Markets (2011) 
